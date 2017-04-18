@@ -1,0 +1,28 @@
+{
+  "name": "triveni-bower-test",
+  "authors": [
+    "Triveni pant"
+  ],
+  "description": "this is just testing using bower",
+  "main": "index.html",
+  "keywords": [
+    "bower",
+    "angular",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.4",
+    "bootstrap": "^3.3.7"
+  }
+}
